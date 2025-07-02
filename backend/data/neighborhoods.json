@@ -1,0 +1,675 @@
+[
+  {
+    "name": "10001",
+    "rent": 2625,
+    "safety": 4,
+    "noise_level": 2,
+    "amenities": [
+      "parks",
+      "Cooler",
+      "bike lanes",
+      "subway",
+      "bars"
+    ]
+  },
+  {
+    "name": "10002",
+    "rent": 1136,
+    "safety": 3,
+    "noise_level": 2,
+    "amenities": [
+      "bars",
+      "subway",
+      "AC",
+      "grocery stores"
+    ]
+  },
+  {
+    "name": "10003",
+    "rent": 2731,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "museums",
+      "AC",
+      "libraries",
+      "subway"
+    ]
+  },
+  {
+    "name": "10011",
+    "rent": 2637,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "bars",
+      "schools",
+      "grocery stores",
+      "music venues"
+    ]
+  },
+  {
+    "name": "10025",
+    "rent": 1885,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "Cooler",
+      "subway",
+      "parks",
+      "libraries",
+      "gyms"
+    ]
+  },
+  {
+    "name": "10453",
+    "rent": 1362,
+    "safety": 3,
+    "noise_level": 2,
+    "amenities": [
+      "bike lanes",
+      "AC",
+      "malls"
+    ]
+  },
+  {
+    "name": "11201",
+    "rent": 3110,
+    "safety": 3,
+    "noise_level": 3,
+    "amenities": [
+      "malls",
+      "metro",
+      "schools"
+    ]
+  },
+  {
+    "name": "11226",
+    "rent": 1672,
+    "safety": 5,
+    "noise_level": 2,
+    "amenities": [
+      "schools",
+      "parks",
+      "Cooler",
+      "grocery stores"
+    ]
+  },
+  {
+    "name": "11368",
+    "rent": 1884,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "museums",
+      "subway",
+      "coffee shops",
+      "libraries"
+    ]
+  },
+  {
+    "name": "11434",
+    "rent": 1375,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "museums",
+      "subway",
+      "Cooler"
+    ]
+  },
+  {
+    "name": "07030",
+    "rent": 2648,
+    "safety": 3,
+    "noise_level": 3,
+    "amenities": [
+      "museums",
+      "music venues",
+      "subway"
+    ]
+  },
+  {
+    "name": "07305",
+    "rent": 1523,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "bike lanes",
+      "grocery stores",
+      "Cooler",
+      "subway"
+    ]
+  },
+  {
+    "name": "07666",
+    "rent": 1721,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "libraries",
+      "subway",
+      "coffee shops",
+      "gyms",
+      "malls"
+    ]
+  },
+  {
+    "name": "19104",
+    "rent": 1225,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "parks",
+      "metro",
+      "malls",
+      "schools",
+      "bars"
+    ]
+  },
+  {
+    "name": "19120",
+    "rent": 1132,
+    "safety": 3,
+    "noise_level": 2,
+    "amenities": [
+      "restaurants",
+      "Cooler",
+      "metro"
+    ]
+  },
+  {
+    "name": "20001",
+    "rent": 2458,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "subway",
+      "grocery stores",
+      "coffee shops",
+      "restaurants"
+    ]
+  },
+  {
+    "name": "20011",
+    "rent": 1613,
+    "safety": 5,
+    "noise_level": 2,
+    "amenities": [
+      "grocery stores",
+      "metro",
+      "schools",
+      "coffee shops"
+    ]
+  },
+  {
+    "name": "30318",
+    "rent": 1610,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "parks",
+      "schools",
+      "libraries",
+      "museums",
+      "gyms"
+    ]
+  },
+  {
+    "name": "33101",
+    "rent": -666666666,
+    "safety": 3,
+    "noise_level": 3,
+    "amenities": [
+      "subway",
+      "libraries",
+      "bars",
+      "Cooler",
+      "music venues"
+    ]
+  },
+  {
+    "name": "33125",
+    "rent": 1238,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "subway",
+      "Cooler",
+      "coffee shops",
+      "music venues"
+    ]
+  },
+  {
+    "name": "33614",
+    "rent": 1232,
+    "safety": 3,
+    "noise_level": 2,
+    "amenities": [
+      "grocery stores",
+      "AC",
+      "music venues",
+      "parks"
+    ]
+  },
+  {
+    "name": "34209",
+    "rent": 1595,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "restaurants",
+      "bars",
+      "Cooler"
+    ]
+  },
+  {
+    "name": "48075",
+    "rent": 1200,
+    "safety": 4,
+    "noise_level": 2,
+    "amenities": [
+      "malls",
+      "libraries",
+      "gyms",
+      "museums"
+    ]
+  },
+  {
+    "name": "48197",
+    "rent": 1137,
+    "safety": 5,
+    "noise_level": 2,
+    "amenities": [
+      "grocery stores",
+      "parks",
+      "metro"
+    ]
+  },
+  {
+    "name": "48219",
+    "rent": 1024,
+    "safety": 4,
+    "noise_level": 4,
+    "amenities": [
+      "subway",
+      "bike lanes",
+      "music venues",
+      "metro"
+    ]
+  },
+  {
+    "name": "55411",
+    "rent": 1117,
+    "safety": 4,
+    "noise_level": 3,
+    "amenities": [
+      "subway",
+      "metro",
+      "parks"
+    ]
+  },
+  {
+    "name": "55416",
+    "rent": 1623,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "malls",
+      "music venues",
+      "bars",
+      "museums",
+      "Cooler"
+    ]
+  },
+  {
+    "name": "60601",
+    "rent": 2513,
+    "safety": 4,
+    "noise_level": 3,
+    "amenities": [
+      "malls",
+      "schools",
+      "libraries",
+      "coffee shops",
+      "AC"
+    ]
+  },
+  {
+    "name": "60608",
+    "rent": 1168,
+    "safety": 5,
+    "noise_level": 2,
+    "amenities": [
+      "restaurants",
+      "bike lanes",
+      "malls"
+    ]
+  },
+  {
+    "name": "60614",
+    "rent": 1949,
+    "safety": 4,
+    "noise_level": 3,
+    "amenities": [
+      "metro",
+      "museums",
+      "grocery stores",
+      "bars"
+    ]
+  },
+  {
+    "name": "60647",
+    "rent": 1623,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "restaurants",
+      "metro",
+      "museums",
+      "AC",
+      "bike lanes"
+    ]
+  },
+  {
+    "name": "64118",
+    "rent": 1070,
+    "safety": 4,
+    "noise_level": 4,
+    "amenities": [
+      "museums",
+      "Cooler",
+      "grocery stores",
+      "libraries"
+    ]
+  },
+  {
+    "name": "68104",
+    "rent": 976,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "AC",
+      "schools",
+      "bike lanes",
+      "museums",
+      "malls"
+    ]
+  },
+  {
+    "name": "70119",
+    "rent": 1248,
+    "safety": 4,
+    "noise_level": 2,
+    "amenities": [
+      "AC",
+      "coffee shops",
+      "bike lanes",
+      "grocery stores"
+    ]
+  },
+  {
+    "name": "70124",
+    "rent": 1715,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "subway",
+      "AC",
+      "metro"
+    ]
+  },
+  {
+    "name": "75001",
+    "rent": 1620,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "subway",
+      "restaurants",
+      "gyms",
+      "libraries"
+    ]
+  },
+  {
+    "name": "75006",
+    "rent": 1453,
+    "safety": 4,
+    "noise_level": 3,
+    "amenities": [
+      "parks",
+      "bike lanes",
+      "libraries",
+      "museums",
+      "metro"
+    ]
+  },
+  {
+    "name": "75201",
+    "rent": 1923,
+    "safety": 5,
+    "noise_level": 2,
+    "amenities": [
+      "restaurants",
+      "coffee shops",
+      "parks"
+    ]
+  },
+  {
+    "name": "75217",
+    "rent": 1114,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "restaurants",
+      "bike lanes",
+      "museums",
+      "coffee shops"
+    ]
+  },
+  {
+    "name": "77084",
+    "rent": 1400,
+    "safety": 4,
+    "noise_level": 3,
+    "amenities": [
+      "parks",
+      "libraries",
+      "malls",
+      "bike lanes",
+      "schools"
+    ]
+  },
+  {
+    "name": "77494",
+    "rent": 1977,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "parks",
+      "metro",
+      "music venues"
+    ]
+  },
+  {
+    "name": "80202",
+    "rent": 2149,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "metro",
+      "gyms",
+      "restaurants",
+      "parks",
+      "libraries"
+    ]
+  },
+  {
+    "name": "80205",
+    "rent": 1691,
+    "safety": 4,
+    "noise_level": 4,
+    "amenities": [
+      "music venues",
+      "bars",
+      "schools",
+      "bike lanes"
+    ]
+  },
+  {
+    "name": "85004",
+    "rent": 1610,
+    "safety": 4,
+    "noise_level": 2,
+    "amenities": [
+      "libraries",
+      "malls",
+      "gyms",
+      "bike lanes",
+      "bars"
+    ]
+  },
+  {
+    "name": "90001",
+    "rent": 1377,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "grocery stores",
+      "schools",
+      "subway",
+      "Cooler"
+    ]
+  },
+  {
+    "name": "90011",
+    "rent": 1425,
+    "safety": 3,
+    "noise_level": 3,
+    "amenities": [
+      "malls",
+      "Cooler",
+      "bars"
+    ]
+  },
+  {
+    "name": "90026",
+    "rent": 1702,
+    "safety": 3,
+    "noise_level": 3,
+    "amenities": [
+      "music venues",
+      "museums",
+      "schools",
+      "malls"
+    ]
+  },
+  {
+    "name": "90210",
+    "rent": 3034,
+    "safety": 4,
+    "noise_level": 4,
+    "amenities": [
+      "bars",
+      "metro",
+      "coffee shops",
+      "bike lanes"
+    ]
+  },
+  {
+    "name": "91331",
+    "rent": 1694,
+    "safety": 4,
+    "noise_level": 2,
+    "amenities": [
+      "malls",
+      "Cooler",
+      "museums"
+    ]
+  },
+  {
+    "name": "92101",
+    "rent": 2222,
+    "safety": 3,
+    "noise_level": 3,
+    "amenities": [
+      "coffee shops",
+      "bike lanes",
+      "bars",
+      "museums",
+      "restaurants"
+    ]
+  },
+  {
+    "name": "92105",
+    "rent": 1549,
+    "safety": 3,
+    "noise_level": 4,
+    "amenities": [
+      "AC",
+      "parks",
+      "museums"
+    ]
+  },
+  {
+    "name": "94536",
+    "rent": 2755,
+    "safety": 3,
+    "noise_level": 2,
+    "amenities": [
+      "Cooler",
+      "restaurants",
+      "malls"
+    ]
+  },
+  {
+    "name": "95014",
+    "rent": 3501,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "music venues",
+      "AC",
+      "parks",
+      "gyms",
+      "bars"
+    ]
+  },
+  {
+    "name": "95823",
+    "rent": 1429,
+    "safety": 5,
+    "noise_level": 4,
+    "amenities": [
+      "AC",
+      "metro",
+      "bars"
+    ]
+  },
+  {
+    "name": "97206",
+    "rent": 1573,
+    "safety": 4,
+    "noise_level": 3,
+    "amenities": [
+      "AC",
+      "bike lanes",
+      "gyms",
+      "subway",
+      "malls"
+    ]
+  },
+  {
+    "name": "98101",
+    "rent": 2393,
+    "safety": 5,
+    "noise_level": 3,
+    "amenities": [
+      "libraries",
+      "bars",
+      "museums",
+      "subway",
+      "coffee shops"
+    ]
+  }
+]

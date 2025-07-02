@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NeighborFit</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🏘️ Find Your Ideal Neighborhood</h1>
+    <form id="form">
+      <label>Max Rent ($)</label>
+      <input type="number" id="rent" required placeholder="e.g. 2500" />
+
+      <label>Minimum Safety (1-5)</label>
+      <input type="number" id="safety" min="1" max="5" required placeholder="e.g. 3" />
+
+      <label>Maximum Noise Level (1-5)</label>
+      <input type="number" id="noise" min="1" max="5" required placeholder="e.g. 3" />
+
+      <label>Amenities</label>
+      <input type="text" id="amenities" placeholder="comma-separated (parks, metro, etc.)" />
+
+      <button type="submit">🔍 Match Me</button>
+    </form>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
