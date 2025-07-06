@@ -24,7 +24,7 @@ form.addEventListener("submit", async (e) => {
   };
 
   try {
-    const res = await fetch("http://localhost:3000/api/match", {
+    const res = await fetch("https://find-your-ideal-neighborhood.onrender.com/api/match", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
