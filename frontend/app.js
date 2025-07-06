@@ -33,15 +33,15 @@ form.addEventListener("submit", async (e) => {
     });
 
     const text = await res.text();
-    console.log("📦 Raw response text:", text);
+    console.log("Raw response text:", text);
 
     const matches = JSON.parse(text);
-    console.log("✅ Parsed matches:", matches);
+    console.log("Parsed matches:", matches);
 
     resultsDiv.innerHTML = "";
 
     if (matches.length === 0) {
-      resultsDiv.innerHTML = `<div class="result">❌ No matching neighborhoods found.</div>`;
+      resultsDiv.innerHTML = `<div class="result">No matching neighborhoods found.</div>`;
     } else {
       matches.forEach((n) => {
         const rent = n.rent !== undefined ? `$${n.rent}` : "Not available";
@@ -64,7 +64,7 @@ form.addEventListener("submit", async (e) => {
       });
     }
   } catch (err) {
-    console.error("❌ Parsing or network error:", err);
+    console.error("Parsing or network error:", err);
     alert("⚠️ Server error. Check console for logs.");
   }
 });
